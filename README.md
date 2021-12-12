@@ -1,16 +1,24 @@
-### Hi there 👋
+### Hi there 👋 I'm Jack Mu
+---
 
-<!--
-**MagNumber/MagNumber** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+- 🔭 I’m currently working on Laravel
+- 🌱 I’m currently learning C++
+- 📫 How to reach me: [on my profile repo](https://github.com/MagNumber/MagNumber/issues)
 
-Here are some ideas to get you started:
+- 💬 Ask me about anything
+- 😄 Pronouns: He/Him
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+### 🏆 GitHub Profile Trophy
+---
+
+![MagNumber Trophy](https://github-profile-trophy.vercel.app/?username=MagNumber&column=8&theme=alduin)
+
+### 📊 GitHub Stats
+---
+
+![MagNumber All](https://github-readme-stats.vercel.app/api/?username=MagNumber&layout=compact&theme=great-gatsby&hide_border=true)
+![MagNumber Language](https://github-readme-stats.vercel.app/api/top-langs/?username=MagNumber&langs_count=8&layout=compact&theme=great-gatsby&hide_border=true)
+
+![MagNumber Stats](https://github-profile-summary-cards.vercel.app/api/cards/repos-per-language?username=MagNumber&theme=github_dark)
+![MagNumber Stats](https://github-profile-summary-cards.vercel.app/api/cards/most-commit-language?username=MagNumber&theme=github_dark)
+![MagNumber Summary](https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=MagNumber&theme=github_dark)
